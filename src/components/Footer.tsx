@@ -114,10 +114,6 @@ export const Footer = () => {
             © {new Date().getFullYear()} Luna Estética Avançada. Todos os
             direitos reservados.
           </p>
-          <p className="text-sm text-muted-foreground flex items-center gap-1">
-            Feito com <Heart className="w-4 h-4 text-accent fill-accent" /> em
-            São Paulo
-          </p>
         </div>
       </div>
     </footer>

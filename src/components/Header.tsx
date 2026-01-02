@@ -3,7 +3,7 @@ import { Menu, X, Moon, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const navItems = [
-  { label: "Home", href: "#home" },
+  { label: "Inicio", href: "#home" },
   { label: "Tratamentos", href: "#tratamentos" },
   { label: "Quem Somos", href: "#sobre" },
   { label: "Resultados", href: "#resultados" },
